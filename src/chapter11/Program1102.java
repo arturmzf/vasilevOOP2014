@@ -3,7 +3,7 @@ package chapter11;
 import java.io.*;
 
 // MyStringInput
-public class Program11dot02 {
+public class Program1102 {
 
     public static void main(String[] args) throws IOException {
 
