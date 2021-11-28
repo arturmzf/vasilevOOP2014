@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaa6ec67-0bbf-4f90-ae49-18ad90a31731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter01/Program0107FindCoors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter01/Program0108FindRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,20 +90,7 @@
       <recent name="chapter11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program0107FindCoors">
-    <configuration name="Program0103BodyPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.Program0103BodyPosition" />
-      <module name="vasilevOOP2014" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program0108FindRoot">
     <configuration name="Program0104FindV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter01.Program0104FindV" />
       <module name="vasilevOOP2014" />
@@ -156,13 +143,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program0108FindRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter01.Program0108FindRoot" />
+      <module name="vasilevOOP2014" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program0108FindRoot" />
         <item itemvalue="Application.Program0107FindCoors" />
         <item itemvalue="Application.Program0106ComplNums" />
         <item itemvalue="Application.Program0105FindH" />
         <item itemvalue="Application.Program0104FindV" />
-        <item itemvalue="Application.Program0103BodyPosition" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,7 @@
       <workItem from="1561297489891" duration="2002000" />
       <workItem from="1634405537252" duration="4687000" />
       <workItem from="1636368496320" duration="9784000" />
-      <workItem from="1638117735718" duration="3808000" />
+      <workItem from="1638117735718" duration="5569000" />
     </task>
     <servers />
   </component>
